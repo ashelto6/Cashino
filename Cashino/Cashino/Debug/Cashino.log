@@ -1,0 +1,7 @@
+﻿  cashino.cpp
+  cashino.hpp
+  cashinoMain.cpp
+C:\Users\ajshe\source\repos\Cashino\Cashino\cashinoMain.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+Debug\cashino.obj : warning LNK4042: object specified more than once; extras ignored
+  Cashino.vcxproj -> C:\Users\ajshe\source\repos\Cashino\Debug\Cashino.exe
