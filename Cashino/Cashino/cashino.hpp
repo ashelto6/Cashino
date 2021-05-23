@@ -28,4 +28,4 @@ private:
 	vector<int> losingNums_{ 2,3,12 };	vector<int>::iterator loser_;
 };
 
-#endif CASHINO_HPP
+#endif
